@@ -10,4 +10,4 @@ Quando l’utente clicca su ogni cella, la cella cliccata si colora di azzurro e
 - Creare un container;
 - Creo un ciclo for per creare 100 box;
 - Collego il bottone alla funzione click per vedere i box;
-- Collego il box alla funzione click per dargli il colore;
+- Collego il box alla funzione click per dargli il colore e il messaggio in console log;

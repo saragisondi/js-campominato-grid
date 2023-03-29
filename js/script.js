@@ -22,8 +22,10 @@ for (let i = 1; i <= 100; i++) {
     boxes.classList.remove('d-none')
   })
 
+  
 boxes.addEventListener('click', function (){
     boxes.classList.add('sky-blue');
+    console.log('hai cliccato sul numero' +  (i))
 })
 
 } 
