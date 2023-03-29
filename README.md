@@ -8,4 +8,6 @@ Quando l’utente clicca su ogni cella, la cella cliccata si colora di azzurro e
 
 ## STEPS
 - Creare un container;
-- Creare il bottone;
+- Creo un ciclo for per creare 100 box;
+- Collego il bottone alla funzione click per vedere i box;
+- Collego il box alla funzione click per dargli il colore;

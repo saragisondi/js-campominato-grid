@@ -21,8 +21,12 @@ for (let i = 1; i <= 100; i++) {
   button.addEventListener('click', function(){
     boxes.classList.remove('d-none')
   })
+
+boxes.addEventListener('click', function (){
+    boxes.classList.add('sky-blue');
+})
+
 } 
   
 
- 
 

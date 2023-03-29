@@ -51,10 +51,10 @@ body{
   font-size: 20px;
 }
 
-.number{
-  
-}
-
 .d-none{
   display: none;
+}
+
+.sky-blue{
+  background-color: skyblue;
 }
