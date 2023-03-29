@@ -24,14 +24,6 @@ body{
   flex-wrap: wrap;
 }
 /*BUTTON*/
-#genera{
-  padding: 10px;
-  border-radius: 10px;
-  background-color: #DDA0DD;
-  font-size: 15px;
-  font-weight: bold;
-}
-
 .button{
   display: flex;
   justify-content: center;
@@ -51,10 +43,15 @@ body{
   font-size: 20px;
 }
 
-.d-none{
-  display: none;
-}
-
 .sky-blue{
   background-color: skyblue;
+}
+
+select{
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #DDA0DD;
+  font-size: 15px;
+  font-weight: bold;
 }
